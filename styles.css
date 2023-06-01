@@ -1,0 +1,77 @@
+img {
+    width: 200px;   
+}
+
+h1{
+    color:black;
+}
+
+
+
+.profile{
+  display:flex;
+  justify-content: space-around;
+  
+}
+
+
+.pfp {
+    border-radius: 300px;
+    
+}
+
+
+.blue-border {
+    background-color: #1780e8;
+    width: 160px;
+    height: 30px;
+    border-radius: 15px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.fullname {
+    font-family: 'Roboto', sans-serif;
+}
+
+.story {
+    width: 400px;
+}
+
+.story1 {
+    border-radius: 301px;
+    height: 100px;
+}
+
+.bio {
+    font-size: 20px;
+}
+
+
+
+h3 {
+    color:black;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main {
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+    font-size: 65px;
+}
+
+.user {
+    font-size: 45px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.f-or-unf{
+    display:flex;
+    justify-content:space-around;
+}
